@@ -1,0 +1,5 @@
+*{box-sizing: border-box;}
+.table {
+    background-image: url(./assets/list-bg.png);
+    background-repeat: no-repeat;
+}
